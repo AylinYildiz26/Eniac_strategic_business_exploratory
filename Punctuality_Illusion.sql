@@ -6,6 +6,7 @@ DESCRIPTION: This query calculates the gap between estimated and actual delivery
 to uncover hidden supply chain inefficiencies.
 */
 
+
 SELECT 
     CASE 
         WHEN DATEDIFF(order_delivered_customer_date, order_estimated_delivery_date) > 0 
