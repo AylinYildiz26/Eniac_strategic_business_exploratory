@@ -1,4 +1,6 @@
 # Strategic Data Audit: Eniac x Magist Fusion 📊🚀
+---
+
 
 [👉 Download Full Strategic Presentation (PDF)](./DEIN_DATEINAME.pdf)
 ---
