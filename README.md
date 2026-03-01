@@ -57,6 +57,9 @@ The raw analytical scripts used to uncover these insights are available as separ
 * **[Two-Speed Delivery Reality]**: A side-by-side bar chart using traffic-light logic to visualize regional delivery performance.
 
 ---
+For detailed instructions on how to replicate this analysis and data schema details, please refer to the [Technical Documentation](./REPRODUCTION.md).
+
+---
 
 ## 👋 About the Author
 
