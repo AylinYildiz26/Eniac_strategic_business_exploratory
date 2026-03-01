@@ -1,4 +1,7 @@
 # Strategic Data Audit: Eniac x Magist Fusion 📊🚀
+---
+[👉 Download Full Strategic Presentation (PDF)](./DEIN_DATEINAME.pdf)
+---
 
 ## 📋 Executive Summary
 This project presents a comprehensive strategic audit for **Eniac**, a Spanish Apple Premium Reseller, evaluating the potential acquisition of **Magist**, a prominent Brazilian e-commerce marketplace.
