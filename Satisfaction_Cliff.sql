@@ -1,9 +1,10 @@
 /*
-PROJECT: Eniac x Magist M&A Audit
-INSIGHT: The Punctuality Illusion
-AUTHOR: Aylin Yildiz
-DESCRIPTION: This query calculates the gap between estimated and actual delivery dates 
-to uncover hidden supply chain inefficiencies.
+PROJECT:     Eniac x Magist M&A Strategic Audit
+INSIGHT:     The Satisfaction Cliff (Sentiment & Churn Risk)
+AUTHOR:      Aylin Yildiz
+DESCRIPTION: Correlates delivery speed with customer review scores for the 
+             premium segment (>500€). Pinpoints the exact duration (21+ days) 
+             where brand reputation and customer satisfaction collapse.
 */
 
 
